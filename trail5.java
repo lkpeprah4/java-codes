@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Question5 {
+public class trail5{
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
