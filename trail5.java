@@ -1,5 +1,8 @@
 // *QUESTION 5*
-// A chemical reactor requires a starting temperature between 20.0°C and 40.0°C. If the user enters a value outside this range, the system rejects it and forces them to try again. However, for safety, the system only allows 3 total attempts before locking down. Write a program in Java for the following technical specifications:
+// A chemical reactor requires a starting temperature between 20.0°C and 40.0°C. 
+// If the user enters a value outside this range, the system rejects it and forces them to try again. 
+// However, for safety, the system only allows 3 total attempts before locking down. 
+// Write a program in Java for the following technical specifications
 // 1. *Variables:*
 // • double temp.
 // • int attempts = 0.
