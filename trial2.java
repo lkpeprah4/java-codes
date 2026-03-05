@@ -1,4 +1,4 @@
-public /*
+/*
 *QUESTION 4*
 A shipping company needs a program to help workers load a delivery truck. The truck has a specific weight limit, and the worker will enter the weight of each package until the truck is full or they choose to stop. You are required to write a program in Java that performs the following technical specifications:
 
@@ -24,9 +24,9 @@ A shipping company needs a program to help workers load a delivery truck. The tr
 
 
 import java.util.Scanner;
-public class trial4 {
+public class trial2{
     public static void main(String[] args) {
-        Scanner scanner=new Scanner (System.in);
+        Scanner Scanner =new Scanner (System.in);
         double weightLimit = 1000.0;
         double currentWeight = 0.0;
         int packageCount = 0;
@@ -40,7 +40,7 @@ public class trial4 {
                 break;
             }
             System.out.print("ENTER THE WEIGHT OF THE NEXT PACKAGE:");
-            pckgWeight= scanner.nextDouble();
+            pckgWeight= Scanner.nextDouble();
 
             if(currentWeight >weightLimit)
             {
@@ -64,6 +64,4 @@ public class trial4 {
     }
     
 }
- {
     
-}
