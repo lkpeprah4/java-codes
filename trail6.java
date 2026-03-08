@@ -11,7 +11,10 @@ public class trail6 {
         if(hoursworked<=40)
         {
             System.out.println("YOU WORKED AS REGULAR");
-            countreg
+            int countreg;
+            int countover;
+            countreg++;
+            countover++;
         }
         else
         {
