@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "trail6",
+            "request": "launch",
+            "mainClass": "trail6",
+            "projectName": "java projects_f7397c2d"
+        },
+        {
+            "type": "java",
             "name": "midsem",
             "request": "launch",
             "mainClass": "midsem",

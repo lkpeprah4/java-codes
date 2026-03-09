@@ -15,6 +15,7 @@ public class trail6 {
             int countover;
             countreg++;
             countover++;
+             
         }
         else
         {
