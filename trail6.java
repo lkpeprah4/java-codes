@@ -3,7 +3,7 @@ public class trail6 {
 
     public static void main (String[] args){
         Scanner input =new Scanner(System.in);
-        int hoursworked;
+        int hoursworke;
         System.out.println("HOW MANY HOURS ARE YOU WORKING??");
         hoursworked=input.nextInt();
 
