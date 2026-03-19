@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenArrayFactorial",
+            "request": "launch",
+            "mainClass": "EvenArrayFactorial",
+            "projectName": "java projects_f7397c2d"
+        },
+        {
+            "type": "java",
             "name": "trail6",
             "request": "launch",
             "mainClass": "trail6",

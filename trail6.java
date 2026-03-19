@@ -25,7 +25,6 @@ public class trail6 {
 
       
         input.close();
-
-    }
+    } }
     
-}
+
